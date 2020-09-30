@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Theme Switcher</string>
+    <string name="night_day_mode">Night/Day Mode</string>
+    <string name="night_day_theme_switcher">Night/Day Theme Switcher</string>
+    <string name="night_switch">NIGHT MODE</string>
+    <string name="day_switch">DAY MODE</string>
+    <string name="night_theme_title">Night Mode Theme</string>
+    <string name="day_theme_title">Day Mode Theme</string>
+</resources>
