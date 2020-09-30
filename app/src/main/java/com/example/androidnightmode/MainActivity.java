@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         @SuppressLint("UseSwitchCompatOrMaterialCode")
         Switch switchNightMode = findViewById(R.id.switchNightMode);
+
         TextView modeName = findViewById(R.id.modeName);
         TextView themeName = findViewById(R.id.themeName);
 
