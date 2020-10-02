@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             modeName.setText(R.string.night_switch);
         }
 
+        // Switch button
         switchNightMode.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
